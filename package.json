@@ -1,5 +1,5 @@
 {
-  "name": "capacitor-widgetsbridge-plugin",
+  "name": "capacitor-widgetsbridge",
   "version": "0.2.2",
   "description": "Capacitor plugin to interact with ios widgetkit",
   "main": "dist/plugin.cjs.js",
