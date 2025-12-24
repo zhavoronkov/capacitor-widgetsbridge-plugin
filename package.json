@@ -1,5 +1,5 @@
 {
-  "name": "capacitor-widgetsbridge",
+  "name": "capacitor-widgetsbridge-plugin",
   "version": "0.2.3",
   "description": "Capacitor plugin to interact with ios widgetkit",
   "main": "dist/plugin.cjs.js",
@@ -16,10 +16,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhavoronkov/capacitor-widgetsbridge.git"
+    "url": "git+https://github.com/zhavoronkov/capacitor-widgetsbridge-plugin.git"
   },
   "bugs": {
-    "url": "https://github.com/zhavoronkov/capacitor-widgetsbridge.git/issues"
+    "url": "https://github.com/zhavoronkov/capacitor-widgetsbridge-plugin.git/issues"
   },
   "keywords": [
     "capacitor",
